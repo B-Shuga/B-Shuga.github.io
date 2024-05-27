@@ -20,5 +20,6 @@
   <h2>Additional Information:</h2>
   <p>PLEASE BRING YOUR UMBRELLA OR RAINCOATS</p>
   <p>We are receiving gifts🙇‍♀️🤎 [Insert Account Details]</p>
+  <p>Thank you for taking out the time to be a part of my special day!! You guys are the Abolute Best!!</p>
 </body>
 </html>
