@@ -7,7 +7,7 @@
   
   <h2>Event Details:</h2>
   <ul>
-    <li>Date: 1st of June, 2k24</li>
+    <li>Date: 1st of June, 2024</li>
     <li>Time: 1200 hrs</li>
     <li>Location: [Insert Location]</li>
   </ul>
