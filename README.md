@@ -1,4 +1,4 @@
-<theme>:jerkyll-theme-merlot
+<theme> :jerkyll-theme-merlot </theme>
 <html>
 <head>
 <title> Beanne's Birthday Picnic </title>
