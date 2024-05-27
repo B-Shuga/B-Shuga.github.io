@@ -1,3 +1,4 @@
+theme:jerkyll-theme-merlot
 <html>
 <head>
   <title>Beanne's Birthday Picnic</title>
