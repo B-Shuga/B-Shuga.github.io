@@ -1,7 +1,7 @@
-theme:jerkyll-theme-merlot
+<theme>:jerkyll-theme-merlot
 <html>
 <head>
-  <title>Beanne's Birthday Picnic</title>
+<title> Beanne's Birthday Picnic </title>
 </head>
 <body>
   <h1>Welcome Party People!</h1>
